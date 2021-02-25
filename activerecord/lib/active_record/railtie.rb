@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'byebug';byebug
+
 require "active_record"
 require "rails"
 require "active_support/core_ext/object/try"
